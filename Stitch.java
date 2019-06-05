@@ -1,7 +1,6 @@
 package com.company;
 
-public class Stitch {
-    private String stitch;
+abstract class Stitch {
 
 
     public void sew()
