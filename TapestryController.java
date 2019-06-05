@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class TapestryController {
 
     public static void main(String[] args) {
-	// write your code here
         ArrayList<Pattern> patterns = new ArrayList<>();
         CrossStitchWigglePattern wiggle = new CrossStitchWigglePattern();
         ZigZagLinesPattern zigzag = new ZigZagLinesPattern();
