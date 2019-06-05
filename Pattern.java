@@ -1,6 +1,6 @@
 package com.company;
 
-public class Pattern {
+abstract class Pattern {
 
     public void pattern()
     {
