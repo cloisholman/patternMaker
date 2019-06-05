@@ -7,4 +7,3 @@ public class ZigZagStitch extends Stitch {
         System.out.print("Z");
     }
 }
-//make sure you have nested loops 
